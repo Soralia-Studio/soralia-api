@@ -8,3 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
+
+.env*
+*token*
+*.log
+*.json
+!maimai_song.json
+!maimai_song_filtered.json
